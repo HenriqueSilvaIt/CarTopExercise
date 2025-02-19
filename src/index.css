@@ -1,0 +1,13 @@
+:root {
+
+  --color-top-bg-nav: #3C9AF0;
+  --color-top-bg-page-primary: #fff;
+  --color-top-bg-page-secundary: #C8C8C8;
+  --color-top-bg-card: #fff;
+
+  --color-top-border-primary: #3C9AF0;
+
+  --color-top-font-primary: #5E5E5E;
+  --color-top-font-secundary: #fff;
+  --color-top-font-tertiary: #3C9AF0;
+}
