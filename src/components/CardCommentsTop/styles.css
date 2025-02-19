@@ -1,0 +1,38 @@
+
+.top-card-comments-container {
+    background-color: var(--color-top-bg-page-secundary)
+}
+
+.top-card-comments-container {
+
+}
+
+.top-card-comments-container h2  {
+    font-size: 20px;
+    color: var(--color-top-font-primary);
+    margin-top: 25px;
+}
+
+.top-card-comments-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.top-card-comments-content {
+    width: calc(100% -100px);
+    display: flex;
+    justify-content: center;
+    border: 1px solid var(--color-top-border-primary);
+    border-radius: 12px;
+    background-color: var(--color-top-bg-page-primary);
+    margin: 25px 20px;
+}
+
+.top-card-comments-content p {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color-top-font-tertiary);
+    margin: 25px 20px;
+}
